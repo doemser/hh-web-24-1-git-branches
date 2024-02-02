@@ -2,4 +2,4 @@
 
 Weiterer Text und so weiter und ich bin am Tippen.
 
-Wieder was anderes! Und 2+4
+Wieder was anderes! Und 2+4 = 6
